@@ -5,5 +5,5 @@ Projeto de Apis para criação de anuncios (market Place) utliziando Spring Boot
 Obs: Porjeto desenvolvido para fins de estudo sobre apis RESTful, Spring Boot e String Security.
 
 Neste Projeto é possivel:
-* Usuario: Cadastrar, Excluir, Alterar, Listar.
+* Usuario: Cadastrar, Excluir, Alterar, Listar, Autenticar;
 * Anuncios: Criar Anuncios e Listá-los;
